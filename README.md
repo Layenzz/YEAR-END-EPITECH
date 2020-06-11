@@ -1,5 +1,5 @@
 # Pack HUB
-|Sumary||
+|Sumary|
 |---:|:---|
 |**Project name**|_name_|
 |**Head of project**|_valentin.noel@epitech.eu_|
