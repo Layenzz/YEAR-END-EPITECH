@@ -16,14 +16,13 @@ _What is the goal of this project?_<br/>
 ## Project management
 ### Team
 _How many people do you need for this project? **Need to be justified**_<br/>
-_If you know, fill in their names_<br/>
 * _axel.migy@epitech.eu_
 * _pierrick.pilorget@epitech.eu_
 * _lara.paccianus@epitech.eu_
 
 ### Organisation and tools
-_How will you be organised_ 
-
+_Our team works with **Agile** techniques, we use git flow to maintain a good repository_ 
+_We use Trello to manage our team todos_
 ## Project functionnalities and qualities
 ### Requirements
 What **MUST** the project do?<br/>
