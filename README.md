@@ -2,8 +2,8 @@
 |Sumary||
 |---:|:---|
 |**Project name**|_name_|
-|**Head of project**|_login@epitech.eu_|
-|**Promo**|_Tech1, Tech2, Tech3_|
+|**Head of project**|_valentin.noel@epitech.eu_|
+|**Promo**|_Pré-MSC_|
 
 ## Project identity
 ### How this project came out?
@@ -17,8 +17,9 @@ _What is the goal of this project?_<br/>
 ### Team
 _How many people do you need for this project? **Need to be justified**_<br/>
 _If you know, fill in their names_<br/>
-* _member1@epitech.eu_
-* _member2@epitech.eu_
+* _axel.migy@epitech.eu_
+* _pierrick.pilorget@epitech.eu_
+* _lara.paccianus@epitech.eu_
 
 ### Organisation and tools
 _How will you be organised_ 
@@ -49,8 +50,8 @@ _Who will you be interacting with?_<br/>
 ## Deployment
 |Deployment||
 |---:|:---|
-|**Language**|_C/C++, python, HTML/CSS/PHP/js, Java_|
-|**Platform target**|_Windows, linux, web, Mobile_|
+|**Language**|_C#, HTML/CSS/PHP/js, Java_|
+|**Platform target**|_Windows, web_|
 
 ### Production environment
 _Which platform or device will you product run on?_<br/>
