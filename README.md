@@ -21,7 +21,7 @@ _How many people do you need for this project? **Need to be justified**_<br/>
 * _lara.paccianus@epitech.eu_
 
 ### Organisation and tools
-_Our team works with **Agile** techniques, we use git flow to maintain a good repository_ 
+_Our team works with **Agile** techniques, we use git flow to maintain a good repository_ <br/>
 _We use Trello to manage our team todos_
 ## Project functionnalities and qualities
 ### Requirements
