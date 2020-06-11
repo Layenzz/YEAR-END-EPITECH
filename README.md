@@ -3,7 +3,7 @@
 |---:|:---|
 |**Project name**|_name_|
 |**Head of project**|_valentin.noel@epitech.eu_|
-|**Promo**|_PrÃ©-MSC_|
+|**Promo**|_Pré-MSC_|
 
 ## Project identity
 ### How this project came out?
